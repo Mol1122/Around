@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/Users/molchen/Desktop/全栈开发/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3005758780.index
+3026521838.index
+3792754016.index
+652855229.index
+185021832.index
+9568634.index
